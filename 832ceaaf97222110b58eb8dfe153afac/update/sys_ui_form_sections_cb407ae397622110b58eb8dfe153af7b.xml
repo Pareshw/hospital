@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="cb407ae397622110b58eb8dfe153af7b" sys_domain="global" table="x_972571_hospital_patient_record" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-08 04:31:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb407ae397622110b58eb8dfe153af7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_972571_hospital_patient_record" name="x_972571_hospital_patient_record" sys_domain="global" view="Default view">cb407ae397622110b58eb8dfe153af7b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_972571_hospital_patient_record" sys_domain="global" view="Default view">9b3d662397622110b58eb8dfe153afb7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-08 04:31:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-08 04:31:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7407ae397622110b58eb8dfe153af7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_972571_hospital_patient_record" name="x_972571_hospital_patient_record" sys_domain="global" view="Default view">cb407ae397622110b58eb8dfe153af7b</sys_ui_form>
+            <sys_ui_section caption="System Details" display_value="System Details" name="x_972571_hospital_patient_record" sys_domain="global" view="Default view">0f407ae397622110b58eb8dfe153af7a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-08 04:31:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-09 04:18:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f9e6377b97222110b58eb8dfe153af2a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_972571_hospital_patient_record" name="x_972571_hospital_patient_record" sys_domain="global" view="Default view">cb407ae397622110b58eb8dfe153af7b</sys_ui_form>
+            <sys_ui_section caption="Patient Details" display_value="Patient Details" name="x_972571_hospital_patient_record" sys_domain="global" view="Default view">b9e6377b97222110b58eb8dfe153af26</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-09 04:18:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_972571_hospital_patient_record</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-08 04:31:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb407ae397622110b58eb8dfe153af7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_972571_hospital_patient_record</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hospital Management " source="x_972571_hospital">832ceaaf97222110b58eb8dfe153afac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital Management ">832ceaaf97222110b58eb8dfe153afac</sys_scope>
+            <sys_update_name>sys_ui_form_sections_cb407ae397622110b58eb8dfe153af7b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-08 04:31:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
